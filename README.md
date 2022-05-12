@@ -1,2 +1,2 @@
 # Clone-Netflix
-Repositório criado para desafio de projeto clone página Netflix.
+Repositório criado para desafio DIO do projeto clone página Netflix.
